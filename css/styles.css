@@ -171,13 +171,13 @@ p:last-of-type {
 }
 
 .button-accent {
-	color: #FF5733;
-	border-color: #FF5733;
+	color: #ff5152;
+	border-color: #ff5152;
 }
 
 .button-accent:hover,
 .button-accent:focus {
-	background: #FF5733;
+	background: #ff5152;
 	color: #232323;
 }
 
@@ -189,7 +189,7 @@ p:last-of-type {
 .button-dark:hover,
 .button-dark:focus {
 	background: #232323;
-	color: #FF5733;
+	color: #ff5152;
 }
 
 /* Parallax
@@ -228,7 +228,7 @@ nav a {
 	text-decoration: none;
 	padding: .5em;
 	text-transform: uppercase;
-	color: #FF5733;
+	color: #ff5152;
 	font-size: .8rem;
 }
 
@@ -256,7 +256,7 @@ nav a:focus {
 	background-size: cover;
 	background-position: center;
 	padding: 10em 0;
-	color: #FF5733;
+	color: #ff5152;
 }
 
 @media (min-width: 60rem) {
@@ -275,14 +275,14 @@ nav a:focus {
 	padding: 4em;
 	width: 100vw;
 	margin-left: -2.5%;
-	outline: 2px solid #FF5733;
+	outline: 2px solid #ff5152;
 	outline-offset: -2.5em;
 	color: #FFF;
 	position: relative;
 }
 
 .home-about-textbox h1 {
-	color: #FF5733;
+	color: #ff5152;
 	position: absolute;
 	left: 50%;
 	transform: translateX(-50%);
@@ -396,7 +396,7 @@ nav a:focus {
 =================== */
 
 .cta {
-	background-color: #FF5733;
+	background-color: #ff5152;
 	padding: 5em 0;
 }
 
